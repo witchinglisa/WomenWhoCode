@@ -1,1 +1,1 @@
-alert('WomenWhoCode');
+console.log('WomenWhoCode');
