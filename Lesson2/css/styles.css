@@ -1,0 +1,16 @@
+body {
+    background-color: #E2B200;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 5%;
+}
+
+img.mugshot {
+    max-width: 200px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
