@@ -14,3 +14,4 @@ The training repository to support the women of Amazee!
 * https://learntocodewith.me/posts/code-for-free
 * https://www.learn-js.org
 * http://jsforcats.com/
+* https://htmlcheatsheet.com/css/
