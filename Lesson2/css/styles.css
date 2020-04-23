@@ -6,11 +6,51 @@ body {
 }
 
 img.mugshot {
-    max-width: 200px;
+    max-width: 300px;
 }
 
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 10px;
+    /*grid-gap: 10px;*/
+	background-color: pink;
+	/*border: 2px solid green;*/
+	/*margin: 10px;*/
 }
+
+.wrapper div {
+	background-color: lime;
+	line-height: 0;
+	/*border: 2px dashed purple;*/
+}
+
+.wrapper .box1,
+.wrapper .box3,
+.wrapper .box5 {
+	background-color: yellow;
+}
+
+.wrapper .box2 {}
+
+p {
+    background-color: #efefef;
+    font-size: 20px;
+    color: brown;
+    line-height: 42px;
+    padding: 5%;
+}
+
+
+/* DO NOT COPY!!! */
+
+/*.wrapper {
+
+	.box1, .box3, .box5 {
+
+		img {
+
+		}
+
+	}
+
+}*/
