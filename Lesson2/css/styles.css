@@ -18,39 +18,6 @@ img.mugshot {
 	/*margin: 10px;*/
 }
 
-.wrapper div {
-	background-color: lime;
-	line-height: 0;
-	/*border: 2px dashed purple;*/
+.wrapper div:nth-child(odd) {
+  background: red;
 }
-
-.wrapper .box1,
-.wrapper .box3,
-.wrapper .box5 {
-	background-color: yellow;
-}
-
-.wrapper .box2 {}
-
-p {
-    background-color: #efefef;
-    font-size: 20px;
-    color: brown;
-    line-height: 42px;
-    padding: 5%;
-}
-
-
-/* DO NOT COPY!!! */
-
-/*.wrapper {
-
-	.box1, .box3, .box5 {
-
-		img {
-
-		}
-
-	}
-
-}*/
