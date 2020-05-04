@@ -3,7 +3,7 @@
   
   grid-template-columns: 150px auto 150px;
 
-  grid-template-rows: 150px auto 150px;
+  grid-template-rows: 150px auto 50px;
   /*repeat(3, 100px);*/
   grid-gap: 1em;
 }
@@ -177,4 +177,9 @@ right: 30em;
    color: black;
    opacity: 0.5;
    font-weight: bolder;
+}
+
+footer {
+  display: block;
+  background-color: #cce3de;
 }
