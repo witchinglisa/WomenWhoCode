@@ -36,7 +36,7 @@ body {
 }
 
 img {
-  left:20em;
+  left:10em;
 }
 
 img.mugshot {
@@ -188,13 +188,12 @@ a {
   color: #6b9080;
   font-family: helvetica;
   text-decoration: none;
-  text-transform: uppercase;
 }
 
 a:hover {
   text-decoration: underline;
   cursor:pointer;
-  color: #35b899;
+  color: #e46d69;
 }
 
 ul {
