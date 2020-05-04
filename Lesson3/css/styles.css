@@ -183,3 +183,24 @@ footer {
   display: block;
   background-color: #cce3de;
 }
+
+a {
+  color: #6b9080;
+  font-family: helvetica;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover {
+  text-decoration: underline;
+  cursor:pointer;
+  color: #35b899;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 30px;
+}
