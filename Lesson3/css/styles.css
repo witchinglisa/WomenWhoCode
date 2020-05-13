@@ -149,7 +149,7 @@ right: 30em;
 }
  .grid input:focus {
   position: absolute;
-   width: 300px;
+   width: 100px;
    opacity: 1;
    cursor: text;
 }
